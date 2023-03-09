@@ -1,4 +1,9 @@
-# Requirement
+# Test Environment
+
+- [ ] e2e: Cypress
+- [ ] unit test: [TestingLibrary](https://nextjs.org/docs/testing#jest-and-react-testing-library)
+
+# Development Environment
 
 ### Tailwindcss
 
